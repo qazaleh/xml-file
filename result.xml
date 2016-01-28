@@ -1,0 +1,18 @@
+<PersonnelList>
+  <Personnel>
+	<PId>1</PId>
+    <Name>Qazal Afrough Azad Qazvin univercity manager </Name>
+    <Staff>financial</Staff>
+    <Department>manager developer organization</Department>
+    <Mobile>091299999 0935444343</Mobile>
+    <Phone>232 334 454</Phone>
+  </Personnel>
+<Personnel>
+    <PId>2</PId>
+    <Name>Orchid</Name>
+    <Staff>financial</Staff>
+    <Department>developer</Department>
+    <Mobile>091299999</Mobile>
+    <Phone>232323</Phone>
+  </Personnel>
+  </PersonnelList>
